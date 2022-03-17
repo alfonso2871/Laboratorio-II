@@ -1,0 +1,16 @@
+C:\kinal\backend\prod\CentroEducativoLab\bin\Debug\net5.0\CentroEducativoLab.exe
+C:\kinal\backend\prod\CentroEducativoLab\bin\Debug\net5.0\CentroEducativoLab.deps.json
+C:\kinal\backend\prod\CentroEducativoLab\bin\Debug\net5.0\CentroEducativoLab.runtimeconfig.json
+C:\kinal\backend\prod\CentroEducativoLab\bin\Debug\net5.0\CentroEducativoLab.runtimeconfig.dev.json
+C:\kinal\backend\prod\CentroEducativoLab\bin\Debug\net5.0\CentroEducativoLab.dll
+C:\kinal\backend\prod\CentroEducativoLab\bin\Debug\net5.0\ref\CentroEducativoLab.dll
+C:\kinal\backend\prod\CentroEducativoLab\bin\Debug\net5.0\CentroEducativoLab.pdb
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\CentroEducativoLab.csproj.AssemblyReference.cache
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\CentroEducativoLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\CentroEducativoLab.AssemblyInfoInputs.cache
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\CentroEducativoLab.AssemblyInfo.cs
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\CentroEducativoLab.csproj.CoreCompileInputs.cache
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\CentroEducativoLab.dll
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\ref\CentroEducativoLab.dll
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\CentroEducativoLab.pdb
+C:\kinal\backend\prod\CentroEducativoLab\obj\Debug\net5.0\CentroEducativoLab.genruntimeconfig.cache
